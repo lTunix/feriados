@@ -1,12 +1,6 @@
 [
   {
     "fecha": "2025-01-01",
-    "festividad": "Día Domingo",
-    "tipo": "Civil",
-    "respaldoLegal": "Ley 2.977"
-  },
-  {
-    "fecha": "2025-01-01",
     "festividad": "Año Nuevo",
     "tipo": "Civil (Irrenunciable)",
     "respaldoLegal": "Ley 2.977, Ley 19.973"
