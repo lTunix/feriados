@@ -1,0 +1,140 @@
+[
+  {
+    "fecha": "2025-01-01",
+    "festividad": "Día Domingo",
+    "tipo": "Civil",
+    "respaldoLegal": "Ley 2.977"
+  },
+  {
+    "fecha": "2025-01-01",
+    "festividad": "Año Nuevo",
+    "tipo": "Civil (Irrenunciable)",
+    "respaldoLegal": "Ley 2.977, Ley 19.973"
+  },
+  {
+    "fecha": "2025-04-18",
+    "festividad": "Viernes Santo",
+    "tipo": "Religioso",
+    "respaldoLegal": "Ley 2.977"
+  },
+  {
+    "fecha": "2025-04-19",
+    "festividad": "Sábado Santo",
+    "tipo": "Religioso",
+    "respaldoLegal": "Ley 2.977"
+  },
+  {
+    "fecha": "2025-05-01",
+    "festividad": "Día Nacional del Trabajo",
+    "tipo": "Civil (Irrenunciable)",
+    "respaldoLegal": "Código del Trabajo, Ley 19.973"
+  },
+  {
+    "fecha": "2025-05-21",
+    "festividad": "Día de las Glorias Navales",
+    "tipo": "Civil",
+    "respaldoLegal": "Ley 2.977"
+  },
+  {
+    "fecha": "2025-06-20",
+    "festividad": "Día Nacional de los Pueblos Indígenas",
+    "tipo": "Civil",
+    "respaldoLegal": "Ley 21.357"
+  },
+  {
+    "fecha": "2025-06-29",
+    "festividad": "San Pedro y San Pablo",
+    "tipo": "Religioso",
+    "respaldoLegal": "Ley 2.977, Ley 18.432, Ley 19.668"
+  },
+  {
+    "fecha": "2025-06-29",
+    "festividad": "Elecciones Primarias Presidenciales y Parlamentarias",
+    "tipo": "Civil (Irrenunciable, Por Confirmar)",
+    "respaldoLegal": "Ley 18.700, Ley 19.973, Ley 20.640"
+  },
+  {
+    "fecha": "2025-07-16",
+    "festividad": "Día de la Virgen del Carmen",
+    "tipo": "Religioso",
+    "respaldoLegal": "Ley 20.148"
+  },
+  {
+    "fecha": "2025-08-15",
+    "festividad": "Asunción de la Virgen",
+    "tipo": "Religioso",
+    "respaldoLegal": "Ley 2.977"
+  },
+  {
+    "fecha": "2025-09-18",
+    "festividad": "Independencia Nacional",
+    "tipo": "Civil (Irrenunciable)",
+    "respaldoLegal": "Ley 2.977, Ley 19.973"
+  },
+  {
+    "fecha": "2025-09-19",
+    "festividad": "Día de las Glorias del Ejército",
+    "tipo": "Civil (Irrenunciable)",
+    "respaldoLegal": "Ley 2.977, Ley 20.629"
+  },
+  {
+    "fecha": "2025-10-12",
+    "festividad": "Encuentro de Dos Mundos",
+    "tipo": "Civil",
+    "respaldoLegal": "Ley 3.810, Ley 19.668"
+  },
+  {
+    "fecha": "2025-10-31",
+    "festividad": "Día de las Iglesias Evangélicas y Protestantes",
+    "tipo": "Religioso",
+    "respaldoLegal": "Ley 20.299"
+  },
+  {
+    "fecha": "2025-11-01",
+    "festividad": "Día de Todos los Santos",
+    "tipo": "Religioso",
+    "respaldoLegal": "Ley 2.977"
+  },
+  {
+    "fecha": "2025-11-16",
+    "festividad": "Elecciones Presidenciales y Parlamentarias",
+    "tipo": "Civil (Irrenunciable)",
+    "respaldoLegal": "Ley 18.700, Ley 19.973, Ley 20.515, Ley 21.073"
+  },
+  {
+    "fecha": "2025-12-08",
+    "festividad": "Inmaculada Concepción",
+    "tipo": "Religioso",
+    "respaldoLegal": "Ley 2.977"
+  },
+  {
+    "fecha": "2025-12-14",
+    "festividad": "Elecciones Presidenciales (Segunda Vuelta)",
+    "tipo": "Civil (Irrenunciable, Por Confirmar)",
+    "respaldoLegal": "Ley 18.700, Ley 19.973, Ley 20.515"
+  },
+  {
+    "fecha": "2025-12-25",
+    "festividad": "Navidad",
+    "tipo": "Religioso (Irrenunciable)",
+    "respaldoLegal": "Ley 2.977, Ley 19.973"
+  },
+  {
+    "fecha": "2025-06-07",
+    "festividad": "Asalto y Toma del Morro de Arica",
+    "tipo": "Región de Arica y Parinacota",
+    "respaldoLegal": "Ley 20.663"
+  },
+  {
+    "fecha": "2025-08-20",
+    "festividad": "Nacimiento del Prócer de la Independencia",
+    "tipo": "Comunas de Chillán y Chillán Viejo",
+    "respaldoLegal": "Ley 16.535, Ley 20.768"
+  },
+  {
+    "fecha": "2025-12-31",
+    "festividad": "Feriado Bancario",
+    "tipo": "Trabajadores de Instituciones Bancarias",
+    "respaldoLegal": "Ley General de Bancos"
+  }
+]
