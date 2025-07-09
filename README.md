@@ -32,4 +32,4 @@ Esta aplicación **Feriados Chile** respeta tu privacidad y se compromete a prot
 Si tienes dudas o consultas sobre esta política, puedes contactarnos en:
 
 - Email: ltunix.19.96@gmail.com
-- Repositorio GitHub: [https://github.com/tuusuario/tu-repo](https://github.com/lTunix/feriados)
+- Repositorio GitHub: [https://github.com/lTunix/feriados](https://github.com/lTunix/feriados)
